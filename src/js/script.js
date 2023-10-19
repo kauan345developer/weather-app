@@ -1,5 +1,4 @@
-import { key } from "../../key.js"
-
+import { key } from "../assets/key"
 
 //pega os elementos no html através do dom
 const search = document.querySelector(".search-box button")
